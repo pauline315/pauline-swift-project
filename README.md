@@ -1,13 +1,4 @@
- Pauline Swift Project: Hello World Toolkit
-
-##  Project Goal
-This project is a beginner-friendly toolkit to help anyone get started with **Swift**, using generative AI prompts to scaffold a minimal working example.
-- Learn the Swift programming language.
-- Create a simple "Hello World" Swift program.
-- Document the steps clearly so others can replicate the process.
-- Explore AI prompts and reflect on their usefulness.
-
----
+ Pauline Swift Project: Hello World ToolkiT
 
 ##  Overview of Swift
 **Swift** is a powerful, open-source programming language developed by Apple for iOS, macOS, watchOS, and tvOS applications. It is:
