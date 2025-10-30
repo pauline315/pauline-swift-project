@@ -2,9 +2,6 @@
 
 ##  Project Goal
 This project is a beginner-friendly toolkit to help anyone get started with **Swift**, using generative AI prompts to scaffold a minimal working example.
-
-In this capstone, you will:
-
 - Learn the Swift programming language.
 - Create a simple "Hello World" Swift program.
 - Document the steps clearly so others can replicate the process.
